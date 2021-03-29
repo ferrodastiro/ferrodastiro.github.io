@@ -16,5 +16,5 @@ Perchè ho iniziato a pacioccare con [Github Pages](https://pages.github.com/) e
 
 ##### Perchè si chiama TRAIETTÒRIE
 
-Fondamentalmente perchè percorsi sembrava un po' banale. Ma mentre il percorso può descrive un processo pieno di imprevisti (pure se usiamo google maps) o un tragitto casuale, la traiettoria può invece essere calcolata. Ecco, TRAIETTÒRIE descrive dei percorsi ben precisi, frutto di una visione chiara. Poi purtroppo sono traiettorie sconnesse tra di loro, impostate un po' a casaccio. Ma questa è un'altra storia.
+Fondamentalmente perchè percorsi sembrava un po' banale. Ma mentre il percorso può descrivere un processo pieno di imprevisti (pure se usiamo google maps) o un tragitto casuale, la traiettoria può invece essere calcolata. Ecco, TRAIETTÒRIE descrive dei percorsi ben precisi, frutto di una visione chiara. Poi purtroppo sono traiettorie sconnesse tra di loro, impostate un po' a casaccio. Ma questa è un'altra storia.
 
